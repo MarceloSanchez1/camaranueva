@@ -8,6 +8,7 @@ import 'package:path_provider/path_provider.dart';
 import 'utils/file_utils.dart';
 
 void main() {
+  //Demo prueba cambios 12-07-2024 Add comentarios main
   runApp(const CameraAwesomeApp());
 }
 
